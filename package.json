@@ -1,9 +1,8 @@
 {
   "name": "@firstandthird/cookie-monster",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Cookie manager",
   "main": "dist/cookie-monster.js",
-  "module": "cookie-monster.js",
   "scripts": {
     "build": "rollup -c",
     "prepare": "npm run build",
